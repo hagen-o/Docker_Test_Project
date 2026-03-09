@@ -16,7 +16,7 @@ Necessary librarys.
 
 How the Image(Unchangeble template, with all necessary commands, code, librarys, connections, etc.) should be build. Blueprint for isolated Docker Containers(Running instance of the image).
 
-## .dockerignore 
+## .dockerignore
 
 Filters useless files out of the build-context.
 
